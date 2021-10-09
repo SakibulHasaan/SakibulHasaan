@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/sakibulhasan"><img src="https://api.daily.dev/devcards/26123ee69bf5443c900c82e4d2b80b23.png?r=a7o" width="400" alt="Md. Sakibul Hasan's Dev Card"/></a>
+<a href="https://app.daily.dev/sakibulhasan"><img src="https://github.com/SakibulHasaan/SakibulHasaan/blob/master/devcard.svg" width="400" alt="Md. Sakibul Hasan's Dev Card"/></a>
